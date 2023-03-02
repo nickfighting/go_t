@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("temp1分支 第一次上传！")
 	fmt.Println("temp1分支 第2次上传！")
 	fmt.Println("temp1分支 第2次上传！")
+	fmt.Println("temp2分支 第1次上传！")
+
 }
